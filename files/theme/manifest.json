@@ -10,5 +10,18 @@
         "full-width-header",
         "navigation-top",
         "color-palettes"
+    ],
+    "color-support": {
+            "primary": "#C8AE79"
+    },
+    "color-presets": [
+        {
+            "variation": "gold",
+            "primary": "#C8AE79"
+        },
+        {
+            "variation": "black",
+            "primary": "#2B2B2B"
+        }
     ]
 }
